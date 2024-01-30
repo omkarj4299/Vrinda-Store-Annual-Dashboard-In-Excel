@@ -1,5 +1,7 @@
 # Vrinda-Store-Annual-Dashboard-In-Excel
 
+![Screenshot 2024-01-30 182111](https://github.com/omkarj4299/Vrinda-Store-Annual-Dashboard-In-Excel/assets/120112924/2b7f46ed-570a-4f65-8b5f-4ec322b48530)
+
 # Sample Insights
 •	Women are more likely to buy compared to men (~65%)
 
